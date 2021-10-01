@@ -22,7 +22,7 @@ import (
 	"embed"
 )
 
-//go:embed static/*
+//go:embed static/*hb
 
 var static embed.FS
 var serviceVersion string
